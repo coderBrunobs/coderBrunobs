@@ -7,5 +7,5 @@ Uma landing page simples e responsiva para uma cafeteria fictícia. Criada com H
 
 ### Portfólio Dev. Web
 Uma landing page simples e responsiva como portfólio. Criada com HTML5 e CSS3.
-- 🔗 [Acesse o site]((https://coderbrunobs.github.io/portfolio-bruno-barbosa/)
+- 🔗 [Acesse o site](https://coderbrunobs.github.io/portfolio-bruno-barbosa/)
 - 📁 [Repositório no GitHub](https://github.com/coderBrunobs/portfolio-bruno-barbosa)
