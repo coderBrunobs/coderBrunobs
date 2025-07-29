@@ -11,6 +11,6 @@ Uma landing page simples e responsiva como portfólio. Criada com HTML5 e CSS3.
 - 📁 [Repositório no GitHub](https://github.com/coderBrunobs/portfolio-bruno-barbosa)
 
 ### Essenza Estética
-Um site institucional com 4 páginas para uma clínica de estética, criado HTML5, CSS3 e ainda será implementado JavaSscript para envio de formulários.
+Um site institucional com 4 páginas para uma clínica de estética, criado com HTML5, CSS3 e ainda será implementado JavaSscript para envio de formulários.
 - 🔗 [Acesse o site](https://coderbrunobs.github.io/essenza-estetica/)
 - 📁 [Repositório no GitHub](https://github.com/coderBrunobs/essenza-estetica)
